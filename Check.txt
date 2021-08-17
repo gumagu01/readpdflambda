@@ -1,0 +1,9 @@
+Check mimetype 
+
+Check is corretora is acceptable
+
+Passar CPF, corretora e dias 
+
+Identyfier unico por nota
+
+Passar arquivo como formdata para o Backend
